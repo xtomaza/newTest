@@ -7,6 +7,11 @@ public class Main {
 	}
 	
 	public void methodB() {
-		
+		System.out.println("A");
 	}
+
+	public void methodA() {
+
+	}
+
 }
